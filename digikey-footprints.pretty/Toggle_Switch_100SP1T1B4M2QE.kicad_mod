@@ -28,4 +28,9 @@
   (pad 1 thru_hole rect (at -4.7 0) (size 2.85 2.85) (drill 1.85) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 2.85 2.85) (drill 1.85) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 4.7 0) (size 2.85 2.85) (drill 1.85) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/digikey-kicad-library/models/100SPxT1B4M2xE.wrl
+    (at (xyz 0 0 -0.9399999999999999))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )

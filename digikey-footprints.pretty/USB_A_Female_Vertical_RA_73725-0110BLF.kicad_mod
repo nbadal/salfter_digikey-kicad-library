@@ -33,4 +33,9 @@
   (pad "" np_thru_hole circle (at -2.72 -6.27) (size 1.35 1.35) (drill 1.35) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.72 0.73) (size 1.35 1.35) (drill 1.35) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.72 -6.27) (size 1.35 1.35) (drill 1.35) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/digikey-kicad-library/models/73725-0110blfc.wrl
+    (at (xyz 0.015 0.21 0.08))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 -90 180))
+  )
 )
